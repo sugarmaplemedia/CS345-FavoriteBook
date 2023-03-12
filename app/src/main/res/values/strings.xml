@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Favorite Book</string>
+    <string name="romance">Romance</string>
+    <string name="todo">TODO</string>
+</resources>
